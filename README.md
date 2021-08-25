@@ -1,1 +1,1 @@
-# react-native-expo
+# Teste de app com expo
