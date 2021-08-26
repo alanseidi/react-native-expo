@@ -40,7 +40,8 @@
       1,
       {
         "extensions": [
-          ".tsx"
+          ".tsx",
+          ".ts"
         ]
       }
     ],
